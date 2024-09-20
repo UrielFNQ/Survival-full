@@ -1,492 +1,916 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726860241866 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726861380814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860244928 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861383874 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860248019 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861386948 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860251083 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861390018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860254148 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861393090 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860257235 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861396155 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860260333 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861399221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860263403 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861402287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860266483 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861405354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860269562 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861408416 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860272636 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860275709 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860278772 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860281830 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860284901 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860287967 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860291048 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860294115 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860297191 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860300256 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860303323 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860306410 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860309475 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860312538 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860315606 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860318680 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860321746 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860324807 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860327866 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860330931 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860334011 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860337075 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860340142 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860343209 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860346295 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860349354 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860352421 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860355482 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860358611 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860361695 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860364759 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860367934 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860370998 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860374109 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860377169 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726860392257 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861423541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860395318 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861426615 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860398381 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861429684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861432749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861435817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726860413486 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861450927 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860416548 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861454033 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860419609 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861457102 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860422668 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861460165 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860425728 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861463229 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860428792 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861466296 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860431856 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860434918 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860437988 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860441063 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860444125 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860447221 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860450291 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726860465405 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861481396 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860468469 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861484461 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860471535 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861487526 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860474594 tunnel running, 1 tunnels registered
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861490581 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860477657 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860480731 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860483802 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860486863 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860489927 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726860492995 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/1e7a2697-e852-4e1a-ab8b-3df58e490aa5
-[2J8[0mplayit (v0.15.23): 1726860496061 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/1e7a2697-e852-4e1a-ab8b-3df58e490aa5
-[2J8[0mplayit (v0.15.23): 1726860499132 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860502198 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860505273 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860508330 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860511399 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860514456 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860517519 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:19132 (minecraft-bedrock)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726860532633 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861505695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860535712 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861508767 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860538779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861511830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860541857 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861514894 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860544925 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861517962 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860547999 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861521023 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860551066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861524095 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860554139 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861527163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860557207 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726861542259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860560277 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861545321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860563361 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861548388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860566422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861551454 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1726860569493 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726861554513 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861557591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861560657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861563748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861566827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861569947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861573009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861576076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861579138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861582205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861585268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861588350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861591421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861594498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861597576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861600636 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861603701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861606800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861609863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861612927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861615989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861619056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726861634162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861637272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861640337 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861643409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861646474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861649560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861652622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861655682 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726861670786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861673869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861676965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861680038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861683112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861686173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861689250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861692316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861695375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861698434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861701496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861704556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861707618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861710691 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861713800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861716872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861719960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861723040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861726106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861729200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861732269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861735328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861738414 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726861753526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861756597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861759678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861762744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861765806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861768864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861771926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861774982 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861778049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861781109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861784175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861787239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861790313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861793382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861796450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726861811544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861814630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861817699 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861820824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861823907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861826981 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861830115 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861833171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861836233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861839298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861842356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861845432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861848501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861851575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861854635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861857717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726861872829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861875899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861878957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861882049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861885134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861888232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726861903350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861906429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861909503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861912564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861915631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861918693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861921792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861924856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861927925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861930999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861934059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861937139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861940250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861943317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861946378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861949461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861952529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861955611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.23): 1726861958678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+kit-twist.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+annual-flux.gl.at.ply.gg:3424 => 127.0.0.1:3424 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726861973778 tunnel running, 2 tunnels registered
 
 
 TUNNELS
